@@ -1,4 +1,4 @@
 
 #push changes to git
 
-git push -u "GarimamodiIIT" origin master
+git push origin master
