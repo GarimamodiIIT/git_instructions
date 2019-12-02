@@ -7,3 +7,4 @@ git-create: create remote repo
 git_commit: commit changes to git
 git_clone: clone repo
 git_push: push local repo to remote repo
+git_save_username: Add git username in credentiasls

@@ -4,8 +4,8 @@
 if [ $# -eq 0 ] 
 	then
 		echo "No commit details entered"
-		git commit -m "initial commit"		
+		git commit -a -m "initial commit"		
 else
-	git commit -m $1
+	git commit -a -m $1
 
 fi 
