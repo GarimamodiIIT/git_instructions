@@ -1,1 +1,9 @@
 This repository contains git commands
+
+git_add: Add all files in git repo
+git_init: Initialise git repo
+git_remote_add: add remote repo
+git-create: create remote repo
+git_commit: commit changes to git
+git_clone: clone repo
+git_push: push local repo to remote repo
